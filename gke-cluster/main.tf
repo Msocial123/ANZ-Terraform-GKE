@@ -2,7 +2,7 @@ terraform {
   required_version = ">= 1.3.0"
 
   backend "gcs" {
-    bucket = "amarjit-test-devops"         # ✅ Your existing bucket
+    bucket = "devajnbucket"         # ✅ Your existing bucket
     prefix = "gke-cluster/terraform-state" # ✅ Folder path inside the bucket
   }
 
