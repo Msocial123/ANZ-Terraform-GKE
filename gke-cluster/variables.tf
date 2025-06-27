@@ -14,7 +14,7 @@ variable "location" {
 
 variable "cluster_name" {
   type    = string
-  default = "amarjit-gke-cluster"
+  default = "amarjit-gke-cluster-new"
 }
 
 variable "initial_node_count" {
