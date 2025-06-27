@@ -1,6 +1,6 @@
-project_id         = "careful-relic-456115-n9"
-region             = "us-central1"
-location           = "us-central1-a"
-cluster_name       = "clahan-gke-cluster"
+project_id         = "springpeo-1731909720540"
+region             = "asia-south1"
+location           = "asia-south1-a"
+cluster_name       = "amarjit-gke-cluster"
 initial_node_count = 3
 machine_type       = "e2-medium"
